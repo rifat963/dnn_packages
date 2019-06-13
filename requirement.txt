@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+pystan
+fbprophet
+keras-tqdm
+category_encoders
+keras
+sklearn
+xgboost
+seaborn
+ConfigParser

@@ -1,0 +1,15 @@
+There is many way to execute your script :
+
+launch bash with root privilege sudo bash install.sh
+
+change permissions to launch the script. However be careful, it's an installation script, it may require root privileges. So you must probably run it as root.
+
+chmod +x install.sh or chmod 755 install.sh
+
+or
+
+just sudo run.sh
+
+
+
+docker image rm [IMAGE ID] [IMAGE ID]

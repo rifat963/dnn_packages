@@ -1,2 +1,2 @@
-# dnn_packages
-Test python package for stack autoencoder &amp; lstm autoencoder
+# DNN packages for IoT data
+Test python package using stack autoencoder &amp; lstm autoencoder
